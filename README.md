@@ -15,4 +15,5 @@ The repository's `index.html` and `assets/` can also be served by any static
 HTTP server. Keep them together. Simulated files and sessions are stored in
 the browser, separately for each site address.
 
-Third-party licence notices are in `THIRD-PARTY-NOTICES.txt`.
+Licensed under the MIT License; see `LICENSE`.
+Third-party components retain their respective licences; see `THIRD-PARTY-NOTICES.txt`.
