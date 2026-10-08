@@ -1,5 +1,8 @@
 # z-shell
 
+[![Démo en ligne](https://img.shields.io/badge/D%C3%A9mo-en%20ligne-blue)](https://shell.hexa.zone)
+[![Licence MIT](https://img.shields.io/badge/Licence-MIT-green)](LICENSE)
+
 [Français](#français) | [English](#english)
 
 ## Français
